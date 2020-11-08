@@ -1,0 +1,15 @@
+#loanInfo{
+font-family:GEORGIA;
+border-collapse:collapse;
+width:100%;
+
+}
+#loanInfo td,tr,th{
+border : 1px solid;
+font-family:GEORGIA;
+}
+#loanInfo th{
+background:#8d82e6;
+color:White;
+
+}
